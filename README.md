@@ -1,4 +1,4 @@
-# Weather-prediction
+# Weather prediction
 • Weather Forecasting is the process of making predictions of the future, based on past and present data of the weather. 
 
 • We used ARIMA model(Auto Regressive Integrated Moving Average) to analyze and predict the time-series data and we shall also perform rigorous exploratory data analysis and visualizations on the dataset.
